@@ -1,17 +1,9 @@
 # dam_idl01
 
-A new Flutter project.
+<h1>Curso: Desarrollo de Aplicaciones Móviles</h1>
 
-## Getting Started
+<h2>Aplicación Móvil de una Calculadora</h2>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Autores
+| <sub>ESCOBEDO PUMACAYO, PIER JONATHAN</sub> | <sub>HUAMÁN MORIANO, ERICK OLIVER</sub> | <sub>JOSÉ HUGO SARAVIA CHÁVEZ</sub> |
+| :---: | :---: | :---: |
